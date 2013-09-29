@@ -93,7 +93,7 @@ define({
 
     // Find, Replace, Find in Files
     "SEARCH_REGEXP_INFO"                : "Use /re/ sintaxe para usar regexp na pesquisa",
-    "WITH"                              : "Com",
+    "WITH"                              : "Por",
     "BUTTON_YES"                        : "Sim",
     "BUTTON_NO"                         : "Não",
     "BUTTON_STOP"                       : "Pare",
